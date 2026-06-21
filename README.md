@@ -1,4 +1,4 @@
-- 👋 Hi, I am tech entrepreneur and cybersecurity and AI professional
+- 👋 Hi, I am a startup founder, AI Engineer and Cybersecurity professional
 - I am an AI engineer: build and trian AI Models, Multimodal and I freeze pretrained to fine tune the model.
 - 👀 I’m interested in Industrial cybersecurity, ICS and IDMZ, Ethical hacking and pentesting.
 - 🌱 I’m currently seeking for open source community and project to join and collaborate with.
